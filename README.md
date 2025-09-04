@@ -16,5 +16,5 @@ I work at [JM Family 🚗](https://jmfamily.com/) as a Software Analyst, and [Ta
 
 ### My Hobbies 🏎️
 I love Formula 1, and dream to work as an Engineer for a Racing Team
-![f1](<img width="498" height="230" alt="image" src="https://github.com/user-attachments/assets/6ea41ca1-9fc5-445c-83b4-74fc82e349c2" />)
+![f1](https://media.tenor.com/izpX3oh6ojoAAAAC/daniel-ricciardo.gif)
 
